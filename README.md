@@ -1,0 +1,2 @@
+# mnist_wgan_fastai_reference_demo
+mnist_wgan_fastai
